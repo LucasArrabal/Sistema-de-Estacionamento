@@ -1,0 +1,15 @@
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.exe
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.deps.json
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.runtimeconfig.json
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.dll
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\bin\Debug\net6.0\SistemaEstacionamento.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.csproj.AssemblyReference.cache
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.AssemblyInfoInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.AssemblyInfo.cs
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.dll
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\refint\SistemaEstacionamento.dll
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.pdb
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\SistemaEstacionamento.genruntimeconfig.cache
+C:\Users\lucas.arrabal_uscson\Desktop\SistemaEstacionamento\obj\Debug\net6.0\ref\SistemaEstacionamento.dll
